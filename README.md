@@ -1,2 +1,2 @@
-# Responsive Navbar
-I Developed this Dog Selling Website Using HTML,CSS and JavaScript. 
+# Projects
+I Developed different projects Using HTML,CSS and JavaScript. 
